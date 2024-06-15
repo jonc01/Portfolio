@@ -3,3 +3,6 @@ remote_theme: lewismiddleton/cayman-dark
 
 name: Games by Jon
 title: null
+
+github:
+    is_project_page: false
