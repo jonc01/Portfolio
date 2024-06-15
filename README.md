@@ -1,5 +1,5 @@
 # Games by Jon
-- 
+All of the games I've worked on, currently all solo-developed.
 
 
 ---
