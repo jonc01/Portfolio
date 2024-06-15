@@ -2,8 +2,9 @@
 
 ## Kingdom Survivors
 [![Play](https://github.com/jonc01/Portfolio/assets/29852159/53ebdd3d-1145-4bab-871b-e70aecf0b2bd)](https://jongamedev.itch.io/kingdom-survivors)
+<!-- The original prototype was created for a game jam with the submission requiring a score system and leaderboard. Since I didn't have enough time to design full stages, I opted for a survival/endless game mode.  -->
 
-
+---
 ## Unnamed Roguelite
 [![Play](https://github.com/jonc01/Portfolio/assets/29852159/170fcae2-73cd-4dec-98c2-cb28438a388a)](https://jongamedev.itch.io/roguelite)
 
