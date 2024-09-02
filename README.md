@@ -1,5 +1,7 @@
 # Games by Jon
 All of the games I've worked on, currently all solo-developed.
+Check out the games <a href="https://jongamedev.itch.io">here</a>
+
 
 
 ---
