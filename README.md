@@ -1,11 +1,10 @@
 # Games by Jon
 All of the games I've worked on, currently all solo-developed.
-
+Play the games <a href="https://jongamedev.itch.io">here</a>
 
 
 
 ---
-Check out the games <a href="https://jongamedev.itch.io">here</a>
 
 
 ## Kingdom Survivors
